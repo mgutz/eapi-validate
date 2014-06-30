@@ -2,7 +2,6 @@
 
 var _ = require('lodash');
 var tv4 = require('tv4');
-var json3 = require('json3');
 
 // based on express request object
 var defaultSchema = {
